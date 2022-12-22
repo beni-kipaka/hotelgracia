@@ -7,10 +7,13 @@
 
 .custom-bg{
     background-color: #2ec1ac;
+    border: 1px solid #279e8c;
 }
 
 .custom-bg:hover{
     background-color: #279e8c;
+    border-color: #279e8c;
+    
 }
 
 
@@ -23,3 +26,177 @@
     input[type=number] {
         -moz-appearance: textfield;
     } */
+
+.availability-form{
+    margin-top: -50px;
+    z-index: 2;
+    position: relative;
+}
+
+@media screen and (max-width: 575px) {
+    .availability-form{
+        margin-top: 0px;
+        padding: 0 35px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
